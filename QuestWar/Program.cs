@@ -14,6 +14,7 @@ namespace QuestWar
 
         public static void Main(string[] args)
         {
+            //
             //************************************
             //Title: (QuestWar)
             //Application Type: (Text based adventure game)
